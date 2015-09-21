@@ -4,6 +4,14 @@ DS:			jagex-jav://www.runescape.com/jav_config_beta.ws
 
 CHRONICLE:	https://www.rschronicle.com/
 
+IMAGE LINKS:
+
+RuneLabs: http://www.runescape.com/img/rs3/home/RuneScape-RuneLabs.jpg
+RS3 LOGO: http://www.runescape.com/img/rs3/global/header_logo.png
+OSRS LOGO: http://www.runescape.com/a=57/img/rsp777/gamepage/download_icon.png
+
+
+
 
 USEFUL LINKS:
 
