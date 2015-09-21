@@ -1,0 +1,29 @@
+RS3:		jagex-jav://www.runescape.com/l=0/jav_config.ws
+OSRS:		jagex-jav://oldschool1.runescape.com/a=57/jav_config.ws
+DS:			jagex-jav://www.runescape.com/jav_config_beta.ws
+
+CHRONICLE:	https://www.rschronicle.com/
+
+
+USEFUL LINKS:
+
+https://www.rschronicle.com/blog
+https://darkscape.runescape.com/news
+http://services.runescape.com/m=news/a=57/list
+
+
+RS3 BTS Playlist: 
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLMjuVhi1Lg6f-Zyo6ZZPuU0deaAGCy_G2" frameborder="0" allowfullscreen></iframe>
+
+RS3 Dev Q&A:
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLMjuVhi1Lg6fMZJd-EY6AEG9CJGcZayVZ" frameborder="0" allowfullscreen></iframe>
+	
+DarkScape Playlist:
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLMjuVhi1Lg6eFnEqWviiPyHhExp64OWtB" frameborder="0" allowfullscreen></iframe>
+
+OSRS Dev Q&A:
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLRs68iqW7gYtgaxXkzBcfCZh9HYREiXMx" frameborder="0" allowfullscreen></iframe>
+	
+OSRS Weekly Recap:
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLRs68iqW7gYvBP9J30S_3jS_yNnzwFDDp" frameborder="0" allowfullscreen></iframe>
+	
