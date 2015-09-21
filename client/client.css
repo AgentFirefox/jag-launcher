@@ -1,1 +1,80 @@
 /* CSS declarations go here */
+
+#launcher {
+	width: 1250px;
+	height: 600px;
+	background-color: black;
+	margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+body {
+	color: #AAA;
+}
+
+.content {
+	width: 930px;
+	height: 100%;
+}
+
+.rs3 {
+	background-image: url('rs3-wallpaper.png');
+	background-size: 930px 600px;
+}
+
+.video {
+	margin-left: 40px;
+	width: 400px;
+	display: inline-block;
+}
+
+.c-body {
+	margin-top: 25px;
+}
+
+.news {
+	overflow-x: hidden;
+}
+
+.box img {
+	height: 60px;
+}
+
+.c-head {
+	padding-top: 40px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	text-align: center;
+}
+
+.c-head .box {
+	margin-left: 80px;
+}
+
+.c-head .box:first-child {
+	margin-left: 0px;
+}
+
+.c-footer {
+	margin-top: 60px;
+}
+
+.playnow {
+	display: block;
+	font-size: 36px;
+	width: 473px;
+	height: 71px;
+	background-image: url('btn-default.png');
+	text-decoration: inherit;
+	text-transform: uppercase;
+	text-align: center;
+	color: black;
+	line-height: 71px;
+	margin-left: 110px;
+}
+
+.playnow:hover {
+	background-image: url('btn-highlight.png');
+}
