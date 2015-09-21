@@ -23,6 +23,11 @@ body {
 	background-size: 930px 600px;
 }
 
+.osrs {
+	background-image: url('osrs-wallpaper3.png');
+	background-size: 930px 600px;
+}
+
 .video {
 	margin-left: 40px;
 	width: 400px;
@@ -77,4 +82,85 @@ body {
 
 .playnow:hover {
 	background-image: url('btn-highlight.png');
+}
+
+
+/* OSRS CSS */
+.osrs-body {
+	margin-top: 15px;
+}
+
+.osrs-footer {
+	margin-top: 10px;
+}
+
+.osrs-play-container {
+	display: inline-block;
+	height: 100%;
+	width: 480px;
+	text-align: center;
+}
+
+.osrs-poll-container {
+	display: inline-block;
+	height: 100%;
+	width: 400px;
+}
+
+.osrs-poll {
+	display: block;
+	width: 400px;
+	height: 109px;
+	background-image: url('osrs-poll.png');
+	color: white;
+	text-shadow: 5px 5px 5px black;
+	line-height: 109px;
+	font-size: 48px;
+	position: relative;
+	top: -55px;
+	text-align: center;
+	text-decoration: initial;
+}
+
+.osrs-poll:hover {
+	text-decoration: underline;
+}
+
+.osrs-play {
+	display: inline-table;
+	width: 152px;
+	height: 126px;
+	margin-left: 40px;
+	text-decoration: initial;
+}
+
+.osrs-play:first-child {
+	margin-left: 0px;
+}
+
+.osrs-play p {
+	display: table-cell;
+	text-align: center;
+	color: white;
+	vertical-align: middle;
+	font-size: 16px;
+	text-decoration: inherit;
+}
+.worldchoose {
+	text-decoration: initial;
+	color: white;
+	font-size: 16px;
+}
+
+.osrs-play:hover, .worldchoose:hover {
+	text-decoration: underline;
+}
+
+
+.free {
+	background-image: url('osrs-tile-free.png');
+}
+
+.mems {
+	background-image: url('osrs-tile-mem.png');
 }

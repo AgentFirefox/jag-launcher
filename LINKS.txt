@@ -19,6 +19,9 @@ https://www.rschronicle.com/blog
 https://darkscape.runescape.com/news
 http://services.runescape.com/m=news/a=57/list
 
+OSRS Polls:
+	http://services.runescape.com/m=poll/a=57/oldschool/index.ws
+
 
 RS3 BTS Playlist: 
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLMjuVhi1Lg6f-Zyo6ZZPuU0deaAGCy_G2" frameborder="0" allowfullscreen></iframe>
