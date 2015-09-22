@@ -1,12 +1,28 @@
 /* CSS declarations go here */
 
 #launcher {
-	width: 1250px;
+	width: 1050px;
 	height: 600px;
 	background-color: black;
-	margin-top: 20px;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+#nav {
+	width: 120px;
+	height: 600px;
+	display: inline-block;
+	background-color: #0D2D3D;
+	position: relative;
+	float: left;
+}
+
+#titlebar {
+	height: 200px;
+	width: 1050px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: black;
 }
 
 body {
@@ -15,9 +31,51 @@ body {
 
 .content {
 	width: 930px;
-	height: 100%;
+	height: 600px;
+	display: inline-block;
+	position: relative;
+	float: right;
 }
 
+/* TITLE BAR CSS */
+
+/* NAVIGATION CSS */
+.nav-item {
+	width: 98px;
+	height: 98px;
+	background-color: #0D2D3D;
+	margin-top: 10px;
+	margin-left: 10px;
+	border: 1px solid #0D2D3D;
+}
+
+.nav-item:hover {
+	background-color: #535C42;
+	border: 1px solid #B7AF77;
+}
+
+.active-nav-item {
+	background-color: #154760 !important;
+	border: 1px solid #4F7C91 !important;
+}
+
+.n-rs3 {
+	background-image: url('rs3-icon.png');
+}
+
+.n-osrs {
+	background-image: url('osrs-icon.png');
+}
+
+.n-ds {
+	background-image: url('ds-icon.png');
+}
+
+.n-chronicle {
+	background-image: url('chronicle-icon.png');
+}
+
+/* RS3 CSS */
 .rs3 {
 	background-image: url('rs3-wallpaper.png');
 	background-size: 930px 600px;
@@ -87,7 +145,7 @@ body {
 
 /* OSRS CSS */
 .osrs-body {
-	margin-top: 15px;
+	color: white;
 }
 
 .osrs-footer {

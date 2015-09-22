@@ -3,7 +3,17 @@
 </head>
 
 <body>
-	<div id="launcher">
-		{{> osrs_content}}
-	</div>
+	{{> launcher}}
 </body>
+
+<template name="launcher">
+	<div id="launcher">
+		{{> navigation}}
+		{{#if currentPageIs "rs3"}}
+			{{> rs3_content}}
+		{{/if}}
+		{{#if currentPageIs "osrs"}}
+			{{> osrs_content}}
+		{{/if}}
+	</div>
+</template>
